@@ -9,9 +9,9 @@ jira: KT-11824
 thumbnail: 347189.jpeg
 exl-id: b8ff1093-5a87-48e7-b60e-2668dcbe7717
 feature: Installation
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 에서 권한 집합을 수정하는 방법을 알아봅니다. [!DNL Marketo Measure] (프로덕션 인스턴스).
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}

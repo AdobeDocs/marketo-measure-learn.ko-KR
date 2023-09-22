@@ -9,9 +9,9 @@ jira: KT-11675
 thumbnail: 347172.jpeg
 exl-id: 811312b6-02d4-44d3-aeaa-e68e172ca72d
 feature: Fundamentals
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 이벤트 마케팅 팀이 를 사용하는 방법을 간략하게 보여 줍니다 [!DNL Marketo Measure] 자신의 작업 역할에서.
 
->[!VIDEO](https://video.tv.adobe.com/v/347172/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347172/?learn=on){transcript=true}

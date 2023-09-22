@@ -9,9 +9,9 @@ jira: KT-11690
 thumbnail: 347238.jpeg
 exl-id: 72a094c9-2659-4cb2-8c6e-7d9187ef3a03
 feature: Salesforce
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 다음과 같은 Salesforce CRM Campaign 개체 필드를 다룹니다. [!DNL Marketo Measure] 를 사용하여 캠페인 및 캠페인 멤버를 마케팅 채널에 매핑합니다. 에서 오프라인 채널을 관리하고 매핑할 때이러한 캠페인 객체의 역할을 이해하는 것이 중요합니다 [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347238/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){transcript=true}
