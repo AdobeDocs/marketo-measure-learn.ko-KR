@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] 튜토리얼"
 breadcrumb-title: "[!DNL Marketo Measure] 튜토리얼"
 user-guide-description: 을 최대한 활용하는 방법 알아보기 [!DNL Adobe Marketo Measure] (이전 [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] 기본 사항 및 정의를 참조하십시오.
 auto-video-transcripts: true
-source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
+source-git-commit: a71b88cd45d3518569a37e416b4601a2928e816d
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 3%
+source-wordcount: '299'
+ht-degree: 2%
 
 ---
 
@@ -20,6 +20,18 @@ ht-degree: 3%
    + [보고서 및 대시보드 공유 및 숨기기](/help/installing/sharing-reports-production.md)
    + [만들기 [!DNL Marketo Measure] account](/help/installing/creating-marketo-measure-account-production.md)
 + 온보딩{#onboarding}
+   + 우수 사례{#best-practices}
+      + [보고 설정 검토(Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
+      + [채널 및 통합 설정 검토(Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
+      + [CRM 설정(Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
+      + [Lead, Contact 및 Opportunity 설정](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
+      + [온라인 채널 설정](/help/onboarding/fundamentals/online-channel-setup.md)
+      + [광고 연결 개요](/help/onboarding/fundamentals/ads-connection-overview.md)
+      + [SFDC 설치 개요](/help/onboarding/fundamentals/sfdc-installation-overview.md)
+      + [오프라인 채널 설정](/help/onboarding/fundamentals/offline-channel-setup.md)
+      + [Marketo Engage과 연결](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
+      + [활동 접점](/help/onboarding/fundamentals/activity-touchpoints.md)
+      + [제외, 세그먼테이션 및 비용](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + 마케팅 역할{#marketing-role}
       + [이유 [!DNL Marketo Measure] CMO 및 VP용](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [사용 [!DNL Marketo Measure] CMO 또는 VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
@@ -54,6 +66,9 @@ ht-degree: 3%
       + [활동 속성](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] 검색{#marketo-measure-discover}
    + [소개 [!DNL Marketo Measure] 검색](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [수행 중인 채널 확인(Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
+   + [수행 중인 채널 확인(Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
+   + [단계 보고 살펴보기(Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + 정의{#definitions}
    + 접점{#touchpoints}
       + [터치포인트란 무엇입니까?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
