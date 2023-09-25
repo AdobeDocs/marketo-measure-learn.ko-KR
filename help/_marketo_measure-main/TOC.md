@@ -2,10 +2,11 @@
 user-guide-title: "[!DNL Marketo Measure] 튜토리얼"
 breadcrumb-title: "[!DNL Marketo Measure] 튜토리얼"
 user-guide-description: 을 최대한 활용하는 방법 알아보기 [!DNL Adobe Marketo Measure] (이전 [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] 기본 사항 및 정의를 참조하십시오.
-source-git-commit: 544bb31ce388b2952c98bb34622b1a6bbeca5d99
+auto-video-transcripts: true
+source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 3%
 
 ---
 
@@ -59,7 +60,7 @@ ht-degree: 0%
       + [이정표 접점](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [접점 구성 요소](/help/definitions/touchpoints/touchpoint-components.md)
       + [온라인 및 오프라인 터치포인트](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + 속성{#attribution}
+   + 귀속{#attribution}
       + [속성이란 무엇입니까?](/help/definitions/attribution/what-is-attribution.md)
       + [속성 모델](/help/definitions/attribution/attribution-models.md)
       + [첫 번째 터치 모델](/help/definitions/attribution/first-touch-model.md)
