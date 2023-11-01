@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] 튜토리얼"
 breadcrumb-title: "[!DNL Marketo Measure] 튜토리얼"
 user-guide-description: 을 최대한 활용하는 방법 알아보기 [!DNL Adobe Marketo Measure] (이전 [!DNL Bizible]). 설치, 온보딩,  기본 사항 및 정의에 대한 튜토리얼을 시청하십시오.
 auto-video-transcripts: true
-source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
+source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '313'
 ht-degree: 5%
 
 ---
@@ -66,6 +66,9 @@ ht-degree: 5%
       + [활동 속성](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] 검색{#marketo-measure-discover}
    + [소개 [!DNL Marketo Measure] 검색](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [개요 대시보드 살펴보기](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
+   + [속성 수익 검색](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
+   + [ROI 대시보드 살펴보기](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [수행 중인 채널 확인(Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [수행 중인 채널 확인(Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [단계 보고 살펴보기(Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
