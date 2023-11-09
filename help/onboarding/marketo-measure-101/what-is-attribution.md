@@ -1,7 +1,7 @@
 ---
 title: 기여도 분석이란?
-description: 이 단원에서는 속성의 정의, 단일 터치 및 다중 터치 속성 방법의 비교 및 B2C와 B2B 비즈니스 간의 속성 비교를 제공합니다.
-short-description: 이 단원에서는 단일 터치와 다중 터치 속성 방법을 비교하고 B2C와 B2B 비즈니스 간의 속성을 비교합니다.
+description: 이번 레슨에서는 기여도에 대한 정의, 싱글 터치와 멀티 터치 기여도 방식의 비교, B2C와 B2B 비즈니스 간의 기여도 비교에 대해 알아봅니다.
+short-description: 이번 레슨에서는 싱글 터치와 멀티 터치 기여도 방식을 비교하고 B2C 비즈니스와 B2B 비즈니스 간의 기여도를 비교합니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,12 +13,12 @@ feature: Attribution
 source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 90%
 
 ---
 
 # 기여도 분석이란?
 
-이 단원에서는 속성의 정의, 단일 터치 및 다중 터치 속성 방법의 비교 및 B2C와 B2B 비즈니스 간의 속성 비교를 제공합니다.
+이번 레슨에서는 기여도에 대한 정의, 싱글 터치와 멀티 터치 기여도 방식의 비교, B2C와 B2B 비즈니스 간의 기여도 비교에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}
