@@ -1,7 +1,7 @@
 ---
 user-guide-title: "[!DNL Marketo Measure] 튜토리얼"
 breadcrumb-title: "[!DNL Marketo Measure] 튜토리얼"
-user-guide-description: ' [!DNL Adobe Marketo Measure]  (이전명  [!DNL Bizible])를 최대로 활용하는 방법에 대해 알아봅니다. 설치, 온보딩, 기본 사항 및 정의에 대한 튜토리얼을 시청하십시오.'
+user-guide-description: ' [!DNL Adobe Marketo Measure] (이전명  [!DNL Bizible])를 최대로 활용하는 방법에 대해 알아봅니다. 설치, 온보딩, 기본 사항 및 정의에 대한 튜토리얼을 시청하십시오.'
 auto-video-transcripts: true
 source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
 workflow-type: tm+mt
