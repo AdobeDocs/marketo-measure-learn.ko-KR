@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] 튜토리얼"
 breadcrumb-title: "[!DNL Marketo Measure] 튜토리얼"
 user-guide-description: ' [!DNL Adobe Marketo Measure] (이전명  [!DNL Bizible])를 최대로 활용하는 방법에 대해 알아봅니다. 설치, 온보딩, 기본 사항 및 정의에 대한 튜토리얼을 시청하십시오.'
 auto-video-transcripts: true
-source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
+source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '325'
 ht-degree: 8%
 
 ---
@@ -72,6 +72,8 @@ ht-degree: 8%
    + [수행 중인 채널 확인(Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [수행 중인 채널 확인(Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [단계 보고 살펴보기(Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
++ [!DNL Marketo Measure] 라이브 채팅 {#live-chat}
+   + [마케팅 속성 및 지표](/help/_assets/marketing attribution 및 metrics.md)
 + 정의{#definitions}
    + 접점{#touchpoints}
       + [터치포인트란 무엇입니까?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
