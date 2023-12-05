@@ -1,12 +1,12 @@
 ---
-user-guide-title: "[!DNL Marketo Measure] 튜토리얼"
-breadcrumb-title: "[!DNL Marketo Measure] 튜토리얼"
-user-guide-description: ' [!DNL Adobe Marketo Measure] (이전명  [!DNL Bizible])를 최대로 활용하는 방법에 대해 알아봅니다. 설치, 온보딩, 기본 사항 및 정의에 대한 튜토리얼을 시청하십시오.'
+user-guide-title: "[!DNL Marketo Measure] Tutorials"
+breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
+user-guide-description: 을 최대한 활용하는 방법 알아보기 [!DNL Adobe Marketo Measure] (이전 [!DNL Bizible]). 설치, 온보딩, 기본 사항 및 정의에 대한 튜토리얼을 시청하십시오.
 auto-video-transcripts: true
-source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
+source-git-commit: beed01aaeb638853c082ecedb2c5b31e5d06fbe4
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 8%
+source-wordcount: '319'
+ht-degree: 3%
 
 ---
 
@@ -72,15 +72,13 @@ ht-degree: 8%
    + [수행 중인 채널 확인(Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [수행 중인 채널 확인(Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [단계 보고 살펴보기(Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ [!DNL Marketo Measure] 라이브 채팅 {#live-chat}
-   + [마케팅 속성 및 지표](/help/_assets/marketing attribution 및 metrics.md)
 + 정의{#definitions}
    + 접점{#touchpoints}
       + [터치포인트란 무엇입니까?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [이정표 접점](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [접점 구성 요소](/help/definitions/touchpoints/touchpoint-components.md)
       + [온라인 및 오프라인 터치포인트](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + 귀속{#attribution}
+   + 속성{#attribution}
       + [속성이란 무엇입니까?](/help/definitions/attribution/what-is-attribution.md)
       + [속성 모델](/help/definitions/attribution/attribution-models.md)
       + [첫 번째 터치 모델](/help/definitions/attribution/first-touch-model.md)
@@ -112,3 +110,5 @@ ht-degree: 8%
    + 부메랑 단계{#boomerang-stage}
       + [부메랑 단계 소개](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [부메랑 단계 설정](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ 전도자 회담 {#evangelist}
+   + [마케팅 속성 및 지표](/help/evangelist-talks/attribution-and-metrics.md)
