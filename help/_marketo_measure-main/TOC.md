@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: 을 최대한 활용하는 방법 알아보기 [!DNL Adobe Marketo Measure] (이전 [!DNL Bizible]). 설치, 온보딩, 기본 사항 및 정의에 대한 튜토리얼을 시청하십시오.
 auto-video-transcripts: true
-source-git-commit: beed01aaeb638853c082ecedb2c5b31e5d06fbe4
+source-git-commit: 9eefc4c2fdbbd031a7c0a8ba0a6bcc892cd11771
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '322'
 ht-degree: 3%
 
 ---
@@ -112,3 +112,4 @@ ht-degree: 3%
       + [부메랑 단계 설정](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
 + 전도자 회담 {#evangelist}
    + [마케팅 속성 및 지표](/help/evangelist-talks/attribution-and-metrics.md)
+   + [마케팅 기여도 분석 완성도](/help/evangelist-talks/marketing-attribution-maturity.md)
