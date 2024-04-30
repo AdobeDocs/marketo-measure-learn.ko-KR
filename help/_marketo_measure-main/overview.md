@@ -4,10 +4,10 @@ recommendations: noDisplay, noCatalog
 description: '를 최대한 활용합니다. [!DNL Adobe Marketo Measure] (이전 이름: [!DNL Bizible]) 업계 최고의 B2B 마케팅 기여도 분석 앱입니다.'
 doc-type: overview-page
 exl-id: 83dae370-8ffd-4715-b72e-4e232f1bf31d
-source-git-commit: 3a3c7d0066e696728df7c114938a365972df9f74
+source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 2%
+source-wordcount: '66'
+ht-degree: 1%
 
 ---
 
@@ -23,3 +23,8 @@ ht-degree: 2%
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
+
+## 라이브 이벤트 Experience League
+
+* **[Marketo Measure의 새로운 Discover 대시보드](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+  *완전히 새로워진 새로운 Discover Dashboards에 대해 알아봅니다.*
