@@ -1,6 +1,6 @@
 ---
 title: 계정 개체
-description: 다음 사이의 관계에 대해 알아보기 [!DNL Marketo Measure] 및 계정 개체.
+description: ' [!DNL Marketo Measure] 과(와) 계정 개체 간의 관계에 대해 알아봅니다.'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # 계정 개체
 
-다음 사이의 관계에 대해 알아보기 [!DNL Marketo Measure] 및 계정 개체.
+[!DNL Marketo Measure]과(와) 계정 개체 간의 관계에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: 개요 [!DNL Marketo Measure] 분류학
-description: 방법에 대한 개요 보기 [!DNL Marketo Measure] 다양한 입력을 사용하여 데이터를 수집 및 처리하여 속성 데이터를 제공합니다.
+title: ' [!DNL Marketo Measure] 분류 개요'
+description: 속성 데이터를 제공하기 위해 다양한 입력을 사용하여  [!DNL Marketo Measure] 데이터를 수집하고 처리하는 방법에 대한 개요를 살펴보십시오.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 개요 [!DNL Marketo Measure] 분류학
+# [!DNL Marketo Measure] 분류법 개요
 
-방법에 대한 개요 가져오기 [!DNL Marketo Measure] 다양한 입력을 사용하여 데이터를 수집 및 처리하여 속성 데이터를 제공합니다.
+[!DNL Marketo Measure]에서 속성 데이터를 제공하기 위해 다양한 입력을 사용하여 데이터를 수집하고 처리하는 방법에 대한 개요를 살펴보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}

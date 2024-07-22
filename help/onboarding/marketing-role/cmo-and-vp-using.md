@@ -1,6 +1,6 @@
 ---
-title: 사용 [!DNL Marketo Measure] CMO 또는 VP
-description: 이 단원에서는 CMO와 기타 고위 마케팅 담당자가 이러한 도구를 사용하는 방법을 간략하게 보여 줍니다 [!DNL Marketo Measure] 자신의 작업 역할에서.
+title: CMO 또는 VP로  [!DNL Marketo Measure] 사용
+description: 이 단원에서는 CMO와 다른 고위 마케팅 담당자가 직무에서  [!DNL Marketo Measure] 을(를) 어떻게 사용할 수 있는지에 대한 빠른 데모를 제공합니다.
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 사용 [!DNL Marketo Measure] CMO 또는 VP
+# CMO 또는 VP로 [!DNL Marketo Measure] 사용
 
-이 단원에서는 CMO와 기타 고위 마케팅 담당자가 이러한 도구를 사용하는 방법을 간략하게 보여 줍니다 [!DNL Marketo Measure] 자신의 작업 역할에서.
+이 단원에서는 CMO와 다른 고위 마케팅 담당자가 작업 역할에서 [!DNL Marketo Measure]을(를) 어떻게 사용할 수 있는지에 대한 빠른 데모를 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347190/?learn=on){transcript=true}

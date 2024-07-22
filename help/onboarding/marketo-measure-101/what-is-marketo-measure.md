@@ -1,5 +1,5 @@
 ---
-title: 이란? [!DNL Marketo Measure]
+title: ' [!DNL Marketo Measure]이란?'
 description: 이 단원에서는 Marketo Measure의 기능과 그 이유를 간략하게 소개합니다.
 role: User
 level: Beginner

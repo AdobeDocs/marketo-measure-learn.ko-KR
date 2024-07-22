@@ -1,6 +1,6 @@
 ---
-title: 사용 [!DNL Marketo Measure] 수요 창출/유료 미디어 마케터
-description: 이 단원에서는 Demand Gen 및 유료 미디어 팀이 사용할 수 있는 방법을 간략하게 보여 줍니다 [!DNL Marketo Measure] 자신의 작업 역할에서.
+title: ' [!DNL Marketo Measure] 을(를) Demand Gen/Paid 미디어 마케터로 사용'
+description: 이 단원에서는 Demand Gen 및 유료 미디어 팀이 작업 역할에서  [!DNL Marketo Measure] 을(를) 사용하는 방법에 대해 간략하게 보여줍니다.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 사용 [!DNL Marketo Measure] 수요 창출/유료 미디어 마케터
+# [!DNL Marketo Measure]을(를) Demand Gen/Paid 미디어 마케터로 사용
 
-이 단원에서는 Demand Gen 및 유료 미디어 팀이 사용할 수 있는 방법을 간략하게 보여 줍니다 [!DNL Marketo Measure] 자신의 작업 역할에서.
+이 단원에서는 Demand Gen 및 Paid Media 팀이 작업 역할에서 [!DNL Marketo Measure]을(를) 사용하는 방법에 대해 빠르게 보여줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347171/?learn=on){transcript=true}

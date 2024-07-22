@@ -1,6 +1,6 @@
 ---
-title: 이유 [!DNL Marketo Measure] 이벤트 마케팅용
-description: 이 단원은 다음을 요약합니다. [!DNL Marketo Measure]의 이벤트 마케팅 팀에 대한 주요 기능 및 가치.
+title: 이벤트 마케팅용  [!DNL Marketo Measure] 의 이유
+description: 이 단원에서는 이벤트 마케팅 팀을 위한  [!DNL Marketo Measure]의 주요 기능과 가치를 요약합니다.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 이유 [!DNL Marketo Measure] 이벤트 마케팅용
+# 이벤트 마케팅에 [!DNL Marketo Measure]을(를) 사용하는 이유
 
-이 단원은 다음을 요약합니다. [!DNL Marketo Measure]의 이벤트 마케팅 팀에 대한 주요 기능 및 가치.
+이 단원에서는 이벤트 마케팅 팀을 위한 [!DNL Marketo Measure]의 주요 기능과 가치를 요약합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347178/?learn=on){transcript=true}

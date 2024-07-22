@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] 속성 접점 개체"
-description: 다음에 대해 알아보기 [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
+title: "[!DNL Marketo Measure] 속성 터치포인트 개체"
+description: ' [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints]에 대해 알아봅니다.'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '10'
-ht-degree: 10%
+ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint] 오브젝트
+# [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint] 개체
 
-다음에 대해 알아보기 [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints].
+[!DNL Marketo Measure] [!UICONTROL Attribution Touchpoints]에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347224/?learn=on){transcript=true}

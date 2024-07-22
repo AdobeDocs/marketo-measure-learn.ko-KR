@@ -1,6 +1,6 @@
 ---
 title: 이정표 접점
-description: 의 주요 이정표에 대해 알아보기 [!DNL Marketo Measure] 및 생성 방법.
+description: ' [!DNL Marketo Measure] 의 주요 이정표와 이를 만드는 방법에 대해 알아봅니다.'
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11323
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 이정표 접점
 
-의 주요 이정표에 대해 알아보기 [!DNL Marketo Measure] 및 생성 방법.
+[!DNL Marketo Measure]의 주요 이정표와 이를 만드는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: 접점
-description: 이 단원에서는 터치포인트에 대해 설명합니다 [!DNL Marketo Measure], how they are created, and how they are used for attribution. [!DNL Marketo Measure] 다음을 포함하는 데이터 개체 [!DNL Marketo Measure] 터치포인트(BT) 및 [!DNL Marketo Measure] 속성 터치포인트(BAT)가 도입됩니다.
+description: 이 단원에서는  [!DNL Marketo Measure] 터치포인트(BT) 및 [!DNL Marketo Measure] 속성 터치포인트(BAT)를 포함한  [!DNL Marketo Measure], how they are created, and how they are used for attribution. [!DNL Marketo Measure] 데이터 개체에 터치포인트가 무엇인지 설명합니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 접점
 
-이 단원에서는 터치포인트에 대해 설명합니다 [!DNL Marketo Measure], 생성 방법 및 기여도 분석에 사용되는 방법. [!DNL Marketo Measure] 다음을 포함하는 데이터 개체 [!DNL Marketo Measure] 터치포인트(BT) 및 [!DNL Marketo Measure] 속성 터치포인트(BAT)가 도입됩니다.
+이 단원에서는 [!DNL Marketo Measure]에 있는 터치포인트, 만들어진 방법 및 기여도에 사용되는 방법에 대해 설명합니다. [!DNL Marketo Measure] 터치포인트(BT) 및 [!DNL Marketo Measure] 속성 터치포인트(BAT)를 포함한 [!DNL Marketo Measure] 데이터 개체가 도입되었습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347246/?learn=on){transcript=true}

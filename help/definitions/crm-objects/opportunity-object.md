@@ -1,6 +1,6 @@
 ---
 title: 영업 기회 개체
-description: 간의 관계 분석 보기 [!DNL Marketo Measure] 및 Opportunity 객체
+description: ' [!DNL Marketo Measure] 과(와) Opportunity 개체 간의 관계를 분류합니다.'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 영업 기회 개체
 
-간의 관계 분석 보기 [!DNL Marketo Measure] 및 Opportunity 객체
+[!DNL Marketo Measure]과(와) Opportunity 개체 간의 관계를 분석해 봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}

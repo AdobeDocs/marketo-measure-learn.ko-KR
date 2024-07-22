@@ -1,6 +1,6 @@
 ---
 title: 채널 및 하위 채널 만들기
-description: 이 단원에서는에서 채널 및 하위 채널 계층과 이름을 만들고 유지 관리하는 방법을 다룹니다 [!DNL Marketo Measure].
+description: 이 단원에서는  [!DNL Marketo Measure]에서 채널 및 하위 채널 계층 및 이름을 만들고 유지 관리하는 방법을 다룹니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 채널 및 하위 채널 만들기
 
-이 단원에서는에서 채널 및 하위 채널 계층과 이름을 만들고 유지 관리하는 방법을 다룹니다 [!DNL Marketo Measure].
+이 단원에서는 [!DNL Marketo Measure]에서 채널 및 하위 채널 계층과 이름을 만들고 유지 관리하는 방법을 다룹니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}

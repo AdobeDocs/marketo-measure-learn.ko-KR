@@ -1,6 +1,6 @@
 ---
 title: 속성 모델
-description: 이 단원에서는 속성 모델을 정의하고,에 포함된 다양한 모델에 대해 설명합니다. [!DNL Marketo Measure]및 각 항목을 사용할 때입니다.  표준 규칙 기반 모델, 사용자 지정 모델 및 AI/ML 권장 사항에 대해 설명합니다.
+description: 이 단원에서는 속성 모델을 정의하고,  [!DNL Marketo Measure]에 포함된 다양한 모델과 각 모델을 사용할 시기를 설명합니다.  표준 규칙 기반 모델, 사용자 지정 모델 및 AI/ML 권장 사항에 대해 설명합니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 속성 모델
 
-이 단원에서는 속성 모델을 정의하고,에 포함된 다양한 모델에 대해 설명합니다. [!DNL Marketo Measure]및 각 항목을 사용할 때입니다.  표준 규칙 기반 모델, 사용자 지정 모델 및 AI/ML 권장 사항에 대해 설명합니다.
+이 단원에서는 속성 모델을 정의하고, [!DNL Marketo Measure]에 포함된 다양한 모델과 각 모델을 사용할 시기를 설명합니다.  표준 규칙 기반 모델, 사용자 지정 모델 및 AI/ML 권장 사항에 대해 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347240/?learn=on){transcript=true}

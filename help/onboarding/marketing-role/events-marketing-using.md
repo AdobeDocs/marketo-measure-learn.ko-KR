@@ -1,6 +1,6 @@
 ---
-title: 사용 [!DNL Marketo Measure] 이벤트 마케터
-description: 이 단원에서는 이벤트 마케팅 팀이 를 사용하는 방법을 간략하게 보여 줍니다 [!DNL Marketo Measure] 자신의 작업 역할에서.
+title: ' [!DNL Marketo Measure] 을(를) 이벤트 마케터로 사용'
+description: 이 단원에서는 이벤트 마케팅 팀이 작업 역할에서  [!DNL Marketo Measure] 을(를) 사용하는 방법을 간략하게 보여 줍니다.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 사용 [!DNL Marketo Measure] 이벤트 마케터
+# 이벤트 마케터로 [!DNL Marketo Measure] 사용
 
-이 단원에서는 이벤트 마케팅 팀이 를 사용하는 방법을 간략하게 보여 줍니다 [!DNL Marketo Measure] 자신의 작업 역할에서.
+이 단원에서는 이벤트 마케팅 팀이 작업 역할에서 [!DNL Marketo Measure]을(를) 사용하는 방법을 빠르게 보여 줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347172/?learn=on){transcript=true}

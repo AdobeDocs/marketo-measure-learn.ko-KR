@@ -1,6 +1,6 @@
 ---
-title: 사용 [!DNL Marketo Measure] 콘텐츠 마케터
-description: 이 단원에서는 콘텐츠 마케터가 를 사용하는 방법을 빠르게 보여 줍니다 [!DNL Marketo Measure] 자신의 작업 역할에서.
+title: ' [!DNL Marketo Measure] 을(를) 콘텐츠 마케터로 사용'
+description: 이 단원에서는 콘텐츠 마케터가 작업 역할에서  [!DNL Marketo Measure] 을(를) 사용하는 방법을 빠르게 보여 줍니다.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 사용 [!DNL Marketo Measure] 콘텐츠 마케터
+# [!DNL Marketo Measure]을(를) 콘텐츠 마케터로 사용
 
-이 단원에서는 콘텐츠 마케터가 를 사용하는 방법을 빠르게 보여 줍니다 [!DNL Marketo Measure] 자신의 작업 역할에서.
+이 단원에서는 콘텐츠 마케터가 작업 역할에서 [!DNL Marketo Measure]을(를) 사용할 수 있는 방법을 빠르게 보여 줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347168/?learn=on){transcript=true}

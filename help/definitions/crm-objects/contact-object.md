@@ -1,6 +1,6 @@
 ---
 title: 연락처 개체
-description: 연락처 개체와 간의 관계 분석 보기 [!DNL Marketo Measure] 접점 오브젝트 및 [!DNL Marketo Measure] 속성 접점 개체.
+description: 연락처 개체와  [!DNL Marketo Measure] 접점 개체 및 [!DNL Marketo Measure] 속성 접점 개체 간의 관계를 분류해 보십시오.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 연락처 개체
 
-이 비디오는 연락처 개체와 [!DNL Marketo Measure] 접점 오브젝트 및 [!DNL Marketo Measure] 속성 접점 개체.
+이 비디오는 연락처 개체와 [!DNL Marketo Measure] 접점 개체 및 [!DNL Marketo Measure] 속성 접점 개체 간의 관계를 분류합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){transcript=true}

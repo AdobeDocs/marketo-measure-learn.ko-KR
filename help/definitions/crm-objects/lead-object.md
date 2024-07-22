@@ -1,6 +1,6 @@
 ---
 title: 잠재 고객 개체
-description: 리드 오브젝트와 간의 관계 분석 보기 [!DNL Marketo Measure] 접점 개체.
+description: 리드 개체와  [!DNL Marketo Measure] 접점 개체 간의 관계를 분류해 봅니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 잠재 고객 개체
 
-리드 오브젝트와 간의 관계 분석 보기 [!DNL Marketo Measure] 접점 개체.
+잠재 고객 개체와 [!DNL Marketo Measure] 접점 개체 간의 관계를 분류하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: 다음 [!DNL Marketo Measure] ROI 대시보드
-description: 이 단원에서는 내에서 사용할 수 있는 구성 가능한 대시보드에 대한 개요를 제공합니다 [!DNL Marketo Measure].
+title: ' [!DNL Marketo Measure] ROI 대시보드'
+description: 이 단원에서는  [!DNL Marketo Measure] 내에서 사용할 수 있는 구성 가능한 대시보드에 대한 개요를 제공합니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 다음 [!DNL Marketo Measure] ROI 대시보드
+# [!DNL Marketo Measure] ROI 대시보드
 
-이 단원에서는 내에서 사용할 수 있는 구성 가능한 대시보드에 대한 개요를 제공합니다 [!DNL Marketo Measure].
+이 단원에서는 [!DNL Marketo Measure] 내에서 사용할 수 있는 구성 가능한 대시보드에 대한 개요를 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){transcript=true}

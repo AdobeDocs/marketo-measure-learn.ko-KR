@@ -1,6 +1,6 @@
 ---
 title: Marketo Measure 터치포인트 오브젝트
-description: 에 대해 알아보기 [!DNL Marketo Measure] 접점.
+description: ' [!DNL Marketo Measure] 터치포인트에 대해 알아봅니다.'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Marketo Measure 터치포인트 오브젝트
 
-에 대해 알아보기 [!DNL Marketo Measure] 접점.
+[!DNL Marketo Measure] 터치포인트에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347219/?learn=on){transcript=true}

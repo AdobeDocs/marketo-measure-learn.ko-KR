@@ -1,6 +1,6 @@
 ---
 title: CSV 파일로 채널 규칙 설정
-description: 이 단원에서는 를 설정하는 방법을 설명합니다 [!DNL Marketo Measure] csv 파일을 사용하여 채널 규칙.
+description: 이 단원에서는 CSV 파일을 사용하여  [!DNL Marketo Measure] 채널 규칙을 설정하는 방법에 대해 설명합니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # CSV 파일로 채널 규칙 설정
 
-이 단원에서는 를 설정하는 방법을 설명합니다 [!DNL Marketo Measure] csv 파일을 사용하여 채널 규칙.
+이 단원에서는 CSV 파일을 사용하여 [!DNL Marketo Measure] 채널 규칙을 설정하는 방법에 대해 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: 만들기 [!DNL Marketo Measure] account
-description: 만들기 [!DNL Marketo Measure] (이전 Bizible) 계정 및 연결 광고 플랫폼(프로덕션 인스턴스).
+title: ' [!DNL Marketo Measure] 계정 만들기'
+description: ' [!DNL Marketo Measure] (이전 Bizible) 계정을 만들고 광고 플랫폼(프로덕션 인스턴스)에 연결합니다.'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 만들기 [!DNL Marketo Measure] account
+# [!DNL Marketo Measure] 계정 만들기
 
-을(를) 만드는 방법 알아보기 [!DNL Marketo Measure] 및 를 사용하여 광고 플랫폼(프로덕션 인스턴스)에 연결할 수 있습니다.
+[!DNL Marketo Measure] 계정을 만들고 광고 플랫폼(프로덕션 인스턴스)에 연결하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}

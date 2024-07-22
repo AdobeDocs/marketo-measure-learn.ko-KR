@@ -1,6 +1,6 @@
 ---
 title: Stock Salesforce 보고서
-description: 이 단원에서는에 포함된 표준 사전 설치된 Salesforce CRM 보고서 및 데이터 개체를 다룹니다. [!DNL Marketo Measure].
+description: 이 단원에서는  [!DNL Marketo Measure]에 포함된 표준 사전 빌드된 Salesforce CRM 보고서 및 데이터 개체를 다룹니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Stock Salesforce 보고서
 
-이 단원에서는에 포함된 표준 사전 설치된 Salesforce CRM 보고서 및 데이터 개체를 다룹니다. [!DNL Marketo Measure].
+이 단원에서는 [!DNL Marketo Measure]에 포함된 표준 사전 설치된 Salesforce CRM 보고서 및 데이터 개체를 다룹니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}
