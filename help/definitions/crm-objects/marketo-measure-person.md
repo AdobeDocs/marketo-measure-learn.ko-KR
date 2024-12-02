@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Marketo Measure]명"
+title: '[!DNL Marketo Measure]명'
 description: ' [!DNL Marketo Measure] Person 개체 및 Lead 개체와 Contact 개체 간에 조회를 만드는 방법에 대해 알아봅니다.'
 role: User
 level: Beginner
@@ -11,7 +11,7 @@ exl-id: 1afac56c-7f88-4331-aab9-c4b8df5c2332
 feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
