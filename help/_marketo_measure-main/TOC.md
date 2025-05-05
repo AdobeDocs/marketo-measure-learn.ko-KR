@@ -119,4 +119,4 @@ ht-degree: 6%
    + [마케팅 기여도 분석 완성도](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [마케팅 속성 및 데이터 사일로](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League 라이브 녹화{#experience-league-live-recordings}
-   + [Marketo Measure의 새로운 검색 대시보드](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measure의 새로운 검색 대시보드](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)

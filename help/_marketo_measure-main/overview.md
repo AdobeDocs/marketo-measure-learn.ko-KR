@@ -26,5 +26,5 @@ ht-degree: 1%
 
 ## 라이브 이벤트 Experience League
 
-* **[Marketo Measure의 새 검색 대시보드](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+* **[Marketo Measure의 새 검색 대시보드](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
   *완전히 개선된 새로운 검색 대시보드에 대해 알아봅니다.*
