@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # [!DNL Marketo Measure] 튜토리얼
 
-업계 최고의 B2B 마케팅 속성 앱인 [!DNL Adobe Marketo Measure](이전 이름: [!DNL Bizible])을(를) 최대한 활용하십시오.
+업계 최고의 B2B 마케팅 속성 앱인 [!DNL Adobe Marketo Measure] (이전 이름: [!DNL Bizible])을(를) 최대한 활용하십시오.
 
 이 사용 안내서에는 Marketo Measure의 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 

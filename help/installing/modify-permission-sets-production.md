@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 권한 집합 수정(프로덕션 인스턴스)
 
-[!DNL Marketo Measure](프로덕션 인스턴스)에서 권한 집합을 수정하는 방법을 알아봅니다.
+[!DNL Marketo Measure] (프로덕션 인스턴스)에서 권한 집합을 수정하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}

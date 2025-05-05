@@ -20,7 +20,7 @@ ht-degree: 6%
    + [사용 권한 집합 수정](/help/installing/modify-permission-sets-production.md)
    + [보고서 및 대시보드 공유 및 숨기기](/help/installing/sharing-reports-production.md)
    + [ [!DNL Marketo Measure] 계정 만들기](/help/installing/creating-marketo-measure-account-production.md)
-+ {#onboarding} 온보딩
++ 온보딩{#onboarding}
    + 모범 사례 {#best-practices}
       + [보고 설정 검토(Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
       + [채널 및 통합 설정 검토(Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
