@@ -16,4 +16,4 @@ ht-degree: 0%
 
 부메랑 코스 시리즈의 두 번째 레슨을 시청하세요. 이거 보기 전에 첫 번째 레슨을 받으세요. [!DNL Marketo Measure]의 [!UICONTROL Boomerang Stages] 설정에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347225/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431594/?learn=on&captions=kor){transcript=true}

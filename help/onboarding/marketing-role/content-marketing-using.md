@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 콘텐츠 마케터가 작업 역할에서 [!DNL Marketo Measure]을(를) 사용할 수 있는 방법을 빠르게 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347168/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422356/?learn=on&captions=kor){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 [!DNL Marketo Measure] 태그 지정 작동 방식과 통합 태그 지정 플랫폼 사용에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422336/?learn=on&captions=kor){transcript=true}

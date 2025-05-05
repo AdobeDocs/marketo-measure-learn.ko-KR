@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!DNL Marketo Measure]의 주요 이정표와 이를 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421809/?learn=on&captions=kor){transcript=true}

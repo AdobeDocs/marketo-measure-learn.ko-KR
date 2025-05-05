@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 보고서는 마케팅 단계의 위에서 중간 부분에 중점을 둡니다. 보고서가 빌드되면 가장 많은 기회를 생성하는 채널을 확인할 수 있으므로 해당 마케팅 채널에 투자할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443747/?learn=on&captions=kor)

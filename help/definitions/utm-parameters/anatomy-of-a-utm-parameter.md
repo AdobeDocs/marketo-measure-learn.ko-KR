@@ -16,4 +16,4 @@ ht-degree: 0%
 
 UTM이란 무엇이며 어떻게 설정되는지에 대한 개요를 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/347199/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422340/?learn=on&captions=kor){transcript=true}

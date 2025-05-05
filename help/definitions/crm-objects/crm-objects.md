@@ -20,4 +20,4 @@ ht-degree: 0%
 
 표준 CRM 개체와 [!DNL Marketo Measure]개의 사용자 지정 개체 및 필드 간의 관계를 자세히 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422223/?learn=on&captions=kor){transcript=true}

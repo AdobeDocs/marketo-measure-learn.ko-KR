@@ -18,4 +18,4 @@ ht-degree: 0%
 
 기여도 분석과 기여도 분석이 중요한 이유에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347233/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421797/?learn=on&captions=kor){transcript=true}

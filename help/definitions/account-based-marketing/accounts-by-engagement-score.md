@@ -16,4 +16,4 @@ ht-degree: 0%
 
 [!UICONTROL Account by Engagement Score]에 대한 높은 수준의 개요입니다.  이 자습서에서는 이 점수에 포함되는 지표 및 이와 연결된 보고서에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432130/?learn=on&captions=kor){transcript=true}

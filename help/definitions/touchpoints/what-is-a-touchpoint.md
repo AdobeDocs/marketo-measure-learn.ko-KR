@@ -18,4 +18,4 @@ ht-degree: 0%
 
 디지털 터치포인트를 만드는 방법 중 하나를 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347210/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421815/?learn=on&captions=kor){transcript=true}

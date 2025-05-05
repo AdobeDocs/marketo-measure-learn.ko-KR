@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 비디오는 단계 보고서를 안내하며, 추적되는 경우 Marketo Measure에서 가망 고객을 생성하고 있는지 여부 및 채널 설정이 올바르게 수행되었는지 여부를 표시합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441787/?learn=on&captions=kor){transcript=true}

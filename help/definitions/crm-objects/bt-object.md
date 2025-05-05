@@ -20,4 +20,4 @@ ht-degree: 0%
 
 [!DNL Marketo Measure] 터치포인트에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347219/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422237/?learn=on&captions=kor){transcript=true}

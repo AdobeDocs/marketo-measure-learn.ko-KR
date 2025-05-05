@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 보고서와 대시보드의 보기 및 공유에 대해 다룹니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431545/?learn=on&captions=kor){transcript=true}

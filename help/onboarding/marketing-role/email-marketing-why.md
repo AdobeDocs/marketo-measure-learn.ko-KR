@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 단원에서는 전자 메일 마케터를 위한 [!DNL Marketo Measure]의 주요 기능과 가치를 요약합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421982/?learn=on&captions=kor){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 Marketo Measure의 기능과 그 이유를 간략하게 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347236/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421963/?learn=on&captions=kor){transcript=true}

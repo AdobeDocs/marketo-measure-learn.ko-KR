@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 [!DNL Marketo Measure]에서 캠페인 및 캠페인 구성원을 마케팅 채널에 매핑하는 데 사용하는 Salesforce CRM Campaign 개체 필드에 대해 설명합니다. [!DNL Marketo Measure]에서 오프라인 채널을 관리하고 매핑할 때 이러한 캠페인 개체의 역할을 이해하는 것이 중요합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422245/?learn=on&captions=kor){transcript=true}

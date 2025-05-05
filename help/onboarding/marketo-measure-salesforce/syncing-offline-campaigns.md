@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 Salesforce CRM 캠페인을 [!DNL Marketo Measure]과(와) 개별적으로 또는 대량으로 동기화하는 방법을 다룹니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421388/?learn=on&captions=kor){transcript=true}

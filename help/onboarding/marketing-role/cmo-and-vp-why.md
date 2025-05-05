@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 단원에서는 CMO 및 기타 고위 마케팅 리더를 위한 [!DNL Marketo Measure]의 주요 기능과 가치를 요약합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422203/?learn=on&captions=kor){transcript=true}

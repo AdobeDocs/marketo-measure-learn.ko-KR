@@ -21,4 +21,4 @@ ht-degree: 91%
 
 이번 레슨에서는 속성에 대한 정의, 싱글 터치와 멀티 터치 속성 방식의 비교, B2C와 B2B 비즈니스 간의 속성 비교에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421970/?learn=on&captions=kor){transcript=true}

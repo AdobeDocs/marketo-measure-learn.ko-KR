@@ -20,4 +20,4 @@ ht-degree: 0%
 
 [!DNL Marketo Measure] 계정을 만들고 광고 플랫폼(프로덕션 인스턴스)에 연결하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421328/?learn=on&captions=kor){transcript=true}

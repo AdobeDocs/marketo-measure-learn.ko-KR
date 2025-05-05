@@ -16,4 +16,4 @@ ht-degree: 0%
 
 UTM이란 무엇이며 [!DNL Marketo Measure]을(를) 사용하는 방법에 대한 튜토리얼을 시청하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/347204/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422312/?learn=on&captions=kor){transcript=true}

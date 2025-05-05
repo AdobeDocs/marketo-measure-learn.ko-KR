@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo Measure의 채널 및 통합 설정에 대한 개요입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424430/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452378/?learn=on&captions=kor){transcript=true}

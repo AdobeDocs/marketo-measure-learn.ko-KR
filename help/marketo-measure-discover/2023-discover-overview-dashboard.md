@@ -21,4 +21,4 @@ ht-degree: 0%
 
 매출 개요 대시보드는 CRM에서 파생된 총 매출에 대한 통찰력을 제공하여 마케팅 전략의 역할을 조명합니다. 마케팅이 전체 매출에 어떻게 영향을 미치며 성공적인 거래 종결에 기여하는지에 대한 개요를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446360/?learn=on&captions=kor){transcript=true}

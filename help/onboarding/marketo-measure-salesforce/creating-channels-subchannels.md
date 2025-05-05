@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 [!DNL Marketo Measure]에서 채널 및 하위 채널 계층과 이름을 만들고 유지 관리하는 방법을 다룹니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421400/?learn=on&captions=kor){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 단원에서는 콘텐츠 마케팅 팀을 위한 [!DNL Marketo Measure]의 주요 기능과 가치를 요약합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431573/?learn=on&captions=kor){transcript=true}

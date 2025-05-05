@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 [!DNL Marketo Measure]에 있는 터치포인트, 만들어진 방법 및 기여도에 사용되는 방법에 대해 설명합니다. [!DNL Marketo Measure] 터치포인트(BT) 및 [!DNL Marketo Measure] 속성 터치포인트(BAT)를 포함한 [!DNL Marketo Measure] 데이터 개체가 도입되었습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422211/?learn=on&captions=kor){transcript=true}

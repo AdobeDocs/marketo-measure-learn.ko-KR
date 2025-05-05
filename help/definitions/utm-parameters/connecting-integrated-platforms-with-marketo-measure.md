@@ -16,4 +16,4 @@ ht-degree: 0%
 
 광고 플랫폼을 [!DNL Marketo Measure] 계정에 연결하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347211/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422332/?learn=on&captions=kor){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!DNL Marketo Measure]에서 기본 속성 모델에 대한 개요를 살펴보십시오. 단일 터치 모델과 다중 터치 모델의 차이점에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347221/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421791/?learn=on&captions=kor){transcript=true}

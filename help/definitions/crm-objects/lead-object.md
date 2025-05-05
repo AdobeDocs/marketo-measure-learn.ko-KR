@@ -20,4 +20,4 @@ ht-degree: 0%
 
 잠재 고객 개체와 [!DNL Marketo Measure] 접점 개체 간의 관계를 분류하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422219/?learn=on&captions=kor){transcript=true}

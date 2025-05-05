@@ -16,4 +16,4 @@ ht-degree: 0%
 
 몇 가지 UTM 생성기 도구에 대한 간단한 토론을 시청하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/347201/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422308/?learn=on&captions=kor){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 Salesforce CRM에서 접점 억제 규칙을 설정하는 방법과 이 작업을 수행하는 일반적인 이유를 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347188/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421382/?learn=on&captions=kor){transcript=true}

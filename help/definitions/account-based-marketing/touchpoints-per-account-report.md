@@ -16,4 +16,4 @@ ht-degree: 0%
 
 이 튜토리얼에서는 계정에서 터치포인트 보고서를 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347226/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422316/?learn=on&captions=kor){transcript=true}

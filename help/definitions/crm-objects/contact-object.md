@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 비디오는 연락처 개체와 [!DNL Marketo Measure] 접점 개체 및 [!DNL Marketo Measure] 속성 접점 개체 간의 관계를 분류합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422215/?learn=on&captions=kor){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 Salesforce Campaign 개체 및 캠페인 유형 필드를 사용하여 오프라인 채널을 [!DNL Marketo Measure]에 매핑하는 방법에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422241/?learn=on&captions=kor){transcript=true}

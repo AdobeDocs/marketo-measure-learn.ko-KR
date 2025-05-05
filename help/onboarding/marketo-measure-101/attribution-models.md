@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 속성 모델을 정의하고, [!DNL Marketo Measure]에 포함된 다양한 모델과 각 모델을 사용할 시기를 설명합니다.  표준 규칙 기반 모델, 사용자 지정 모델 및 AI/ML 권장 사항에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347240/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422198/?learn=on&captions=kor){transcript=true}

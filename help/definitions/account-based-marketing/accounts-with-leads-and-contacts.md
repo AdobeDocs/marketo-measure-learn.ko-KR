@@ -16,4 +16,4 @@ ht-degree: 0%
 
 이 자습서에서는 [!UICONTROL Account and Leads Contacts] 보고서에 대한 정보와 해당 개체를 연결하는 방법에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347220/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422324/?learn=on&captions=kor){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 보고서에서는 전체 단계 보고서를 살펴봅니다. 이 Discover 보고서는 참여한 채널을 처음부터 끝까지 추적한 다음 해당 채널에 기회 및/또는 매출을 연결합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443758/?learn=on&captions=kor){transcript=true}

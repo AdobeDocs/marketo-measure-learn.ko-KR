@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 CSV 파일을 사용하여 [!DNL Marketo Measure] 채널 규칙을 설정하는 방법에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421394/?learn=on&captions=kor){transcript=true}

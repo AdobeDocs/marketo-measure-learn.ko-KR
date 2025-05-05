@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 이벤트 마케팅 팀이 작업 역할에서 [!DNL Marketo Measure]을(를) 사용하는 방법을 빠르게 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347172/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422348/?learn=on&captions=kor){transcript=true}

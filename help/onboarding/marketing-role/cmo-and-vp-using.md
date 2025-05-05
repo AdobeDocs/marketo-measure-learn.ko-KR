@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 CMO와 다른 고위 마케팅 담당자가 작업 역할에서 [!DNL Marketo Measure]을(를) 어떻게 사용할 수 있는지에 대한 빠른 데모를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347190/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422254/?learn=on&captions=kor){transcript=true}

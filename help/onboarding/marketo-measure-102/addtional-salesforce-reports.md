@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 Salesforce CRM의 사용자 지정 속성 보고서를 다룹니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347242/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421945/?learn=on&captions=kor){transcript=true}

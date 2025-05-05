@@ -20,4 +20,4 @@ ht-degree: 0%
 
 [!DNL Marketo Measure] Person 개체 및 Lead 개체와 Contact 개체 간에 조회를 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347230/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422227/?learn=on&captions=kor){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 [!DNL Marketo Measure]과(와) Opportunity 개체 간의 관계를 분석해 봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421957/?learn=on&captions=kor){transcript=true}

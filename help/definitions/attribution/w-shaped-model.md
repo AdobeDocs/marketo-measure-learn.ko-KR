@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 비디오에서는 W자형 모델에 대해 자세히 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347209/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421358/?learn=on&captions=kor){transcript=true}

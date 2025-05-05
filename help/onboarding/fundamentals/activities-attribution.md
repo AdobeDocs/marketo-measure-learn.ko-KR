@@ -16,4 +16,4 @@ ht-degree: 0%
 
 이 단원에서는 [!UICONTROL Activities Attribution]에 대해 설명합니다. 이 기능을 사용하면 작업 또는 이벤트 레코드를 통해 Salesforce의 활동 개체에서 터치포인트를 만들 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347192/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422320/?learn=on&captions=kor){transcript=true}

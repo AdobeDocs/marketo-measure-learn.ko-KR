@@ -21,4 +21,4 @@ ht-degree: 0%
 
 CRM 설정 리드, 연락처 및 기회를 검토합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424425/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453726/?learn=on&captions=kor){transcript=true}

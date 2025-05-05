@@ -20,4 +20,4 @@ ht-degree: 0%
 
 [!DNL Marketo Measure]에서 속성 데이터를 제공하기 위해 다양한 입력을 사용하여 데이터를 수집하고 처리하는 방법에 대한 개요를 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421346/?learn=on&captions=kor){transcript=true}

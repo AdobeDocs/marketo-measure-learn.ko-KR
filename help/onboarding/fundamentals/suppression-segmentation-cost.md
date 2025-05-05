@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo Measure 억제, 세그먼테이션 및 비용에 대한 개요입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424418/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453231/?learn=on&captions=kor){transcript=true}

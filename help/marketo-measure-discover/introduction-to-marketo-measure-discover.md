@@ -16,4 +16,4 @@ ht-degree: 0%
 
 [!UICONTROL Discover] 및 다양한 게시판에 대한 높은 수준의 개요를 살펴보십시오. 이 단원에서는 몇 가지 Discover 대시보드 및 타일의 일반적인 보고 사용 사례에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422344/?learn=on&captions=kor){transcript=true}

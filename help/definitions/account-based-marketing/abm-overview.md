@@ -16,4 +16,4 @@ ht-degree: 0%
 
 이 튜토리얼은 ABM에 대한 정의와 예측 참여 등급을 구성하는 요소를 포함하여 ABM에 대한 간략한 개요입니다. 예측 참여 점수에 대해 생각하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347217/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422328/?learn=on&captions=kor){transcript=true}

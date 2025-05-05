@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 Demand Gen 및 Paid Media 팀이 작업 역할에서 [!DNL Marketo Measure]을(를) 사용하는 방법에 대해 빠르게 보여줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347171/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422206/?learn=on&captions=kor){transcript=true}

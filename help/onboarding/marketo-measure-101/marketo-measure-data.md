@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 [!DNL Marketo Measure] JavaScript, API 통합, UTM 매개 변수, CRM 데이터 및 수동으로 입력한 데이터를 포함하는 [!DNL Marketo Measure] 데이터 소스에 대한 개요를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421951/?learn=on&captions=kor){transcript=true}
