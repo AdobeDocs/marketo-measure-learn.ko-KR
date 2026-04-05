@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 Salesforce CRM의 Lead by ID 보고서를 설명합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/347182/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421931/?captions=kor&learn=on){transcript=true}

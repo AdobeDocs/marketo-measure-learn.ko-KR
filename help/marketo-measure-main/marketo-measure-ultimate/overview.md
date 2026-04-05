@@ -19,4 +19,4 @@ ht-degree: 64%
 
 B2B 마케터가 Marketo Measure Ultimate를 사용하여 모든 속성에 대해 같은 유형의 여러 소스를 포함한 거의 모든 소스에서 데이터를 수집할 수 있는 방법을 알아보십시오. 이를 통해 B2B 마케터는 고급 분석 및 통찰력에 액세스하여 마케팅 전략을 향상시키고 비즈니스 성장을 높일 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433044/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446471/?captions=kor&learn=on)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo Measure의 활동 설정을 검토합니다. Marketo Engage 및 CRM 활동을 검토합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424420/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453220/?captions=kor&learn=on){transcript=true}

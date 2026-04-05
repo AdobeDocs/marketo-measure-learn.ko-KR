@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo Measure의 CRM 설정에 대한 검토입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424429/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451745/?captions=kor&learn=on){transcript=true}

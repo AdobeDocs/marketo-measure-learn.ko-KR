@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 비디오는 funnel 보고서의 상단을 안내하며, Marketo Measure이 추적하는 경우, 리드를 생성하고 있는지 여부 및 채널 설정이 올바르게 완료되었는지 여부를 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441787/?captions=kor&learn=on){transcript=true}

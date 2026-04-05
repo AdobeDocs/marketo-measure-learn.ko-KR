@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 [!DNL Marketo Measure]에 포함된 표준 미리 빌드된 Salesforce CRM 보고서 및 데이터 개체를 다룹니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421988/?captions=kor&learn=on){transcript=true}

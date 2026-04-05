@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo Measure의 보고 설정 개요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424431/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453715/?captions=kor&learn=on){transcript=true}

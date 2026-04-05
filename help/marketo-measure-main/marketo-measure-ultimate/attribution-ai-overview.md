@@ -20,4 +20,4 @@ ht-degree: 68%
 
 Adobe의 Attribution AI가 정교한 AI/ML 모델링을 통해 B2B 마케팅 측정을 강화하고, 정확한 속성 인사이트를 제공하고, 정확한 분석을 위해 편향을 제거하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433052/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447228/?captions=kor&learn=on)
