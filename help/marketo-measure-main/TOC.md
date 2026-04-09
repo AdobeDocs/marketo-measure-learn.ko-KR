@@ -3,7 +3,7 @@ user-guide-title: '[!DNL Marketo Measure] 튜토리얼'
 breadcrumb-title: '[!DNL Marketo Measure] 튜토리얼'
 user-guide-description: ' [!DNL Adobe Marketo Measure] (이전에는  [!DNL Bizible])을(를) 최대한 활용하는 방법을 알아봅니다. 설치, 온보딩, 기본 사항 및 정의에 대한 튜토리얼을 시청합니다.'
 auto-video-transcripts: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 7%
@@ -34,15 +34,15 @@ ht-degree: 7%
       + [활동 접점](/help/marketo-measure-main/onboarding/fundamentals/activity-touchpoints.md)
       + [제외, 세그먼테이션 및 비용](/help/marketo-measure-main/onboarding/fundamentals/suppression-segmentation-cost.md)
    + 마케팅 역할 {#marketing-role}
-      + [CMO 및 VP용  [!DNL Marketo Measure] 의 이유](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
+      + {hide-from-toc}[이유 [!DNL Marketo Measure] CMO 및 VP용](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
       + [CMO 또는 VP로  [!DNL Marketo Measure] 사용](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [수요 창출/유료 미디어에 대해  [!DNL Marketo Measure] 해야 하는 이유](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
+      + {hide-from-toc}[이유 [!DNL Marketo Measure] 수요 세대/유료 미디어](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
       + [&#x200B; [!DNL Marketo Measure] 을(를) 수요 창출/유료 미디어 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-using.md)
-      + [콘텐츠 마케팅을 위해  [!DNL Marketo Measure] 해야 하는 이유](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
+      + {hide-from-toc}[이유 [!DNL Marketo Measure] 콘텐츠 마케팅](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
       + [&#x200B; [!DNL Marketo Measure] 을(를) 콘텐츠 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-using.md)
-      + [이벤트 마케팅용  [!DNL Marketo Measure] 의 이유](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
+      + {hide-from-toc}[이유 [!DNL Marketo Measure] 이벤트 마케팅](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
       + [&#x200B; [!DNL Marketo Measure] 을(를) 이벤트 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-using.md)
-      + [이메일 마케팅을 위해  [!DNL Marketo Measure] 해야 하는 이유](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
+      + {hide-from-toc}[이유 [!DNL Marketo Measure] 이메일 마케팅](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
       + [&#x200B; [!DNL Marketo Measure] 을(를) 이메일 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [속성이란 무엇입니까?](/help/marketo-measure-main/onboarding/marketo-measure-101/what-is-attribution.md)
