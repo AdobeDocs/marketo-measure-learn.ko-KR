@@ -3,7 +3,7 @@ user-guide-title: '[!DNL Marketo Measure] 튜토리얼'
 breadcrumb-title: '[!DNL Marketo Measure] 튜토리얼'
 user-guide-description: ' [!DNL Adobe Marketo Measure] (이전에는  [!DNL Bizible])을(를) 최대한 활용하는 방법을 알아봅니다. 설치, 온보딩, 기본 사항 및 정의에 대한 튜토리얼을 시청합니다.'
 auto-video-transcripts: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 7%
@@ -19,7 +19,7 @@ ht-degree: 7%
    + [Marketo Measure 설치](/help/marketo-measure-main/installing/install-production.md)
    + [사용 권한 집합 수정](/help/marketo-measure-main/installing/modify-permission-sets-production.md)
    + [보고서 및 대시보드 공유 및 숨기기](/help/marketo-measure-main/installing/sharing-reports-production.md)
-   + [&#x200B; [!DNL Marketo Measure] 계정 만들기](/help/marketo-measure-main/installing/creating-marketo-measure-account-production.md)
+   + [ [!DNL Marketo Measure] 계정 만들기](/help/marketo-measure-main/installing/creating-marketo-measure-account-production.md)
 + 온보딩 {#onboarding}
    + 모범 사례 {#best-practices}
       + [보고 설정 검토(Pt.1)](/help/marketo-measure-main/onboarding/fundamentals/review-reporting-setting-pt1.md)
@@ -34,24 +34,24 @@ ht-degree: 7%
       + [활동 접점](/help/marketo-measure-main/onboarding/fundamentals/activity-touchpoints.md)
       + [제외, 세그먼테이션 및 비용](/help/marketo-measure-main/onboarding/fundamentals/suppression-segmentation-cost.md)
    + 마케팅 역할 {#marketing-role}
-      + [CMO 및 VP용  [!DNL Marketo Measure] 의 이유](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
+      + {hide-from-toc}[이유 [!DNL Marketo Measure] CMO 및 VP용](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
       + [CMO 또는 VP로  [!DNL Marketo Measure] 사용](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [수요 창출/유료 미디어에 대해  [!DNL Marketo Measure] 해야 하는 이유](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
-      + [&#x200B; [!DNL Marketo Measure] 을(를) 수요 창출/유료 미디어 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-using.md)
-      + [콘텐츠 마케팅을 위해  [!DNL Marketo Measure] 해야 하는 이유](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
-      + [&#x200B; [!DNL Marketo Measure] 을(를) 콘텐츠 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-using.md)
-      + [이벤트 마케팅용  [!DNL Marketo Measure] 의 이유](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
-      + [&#x200B; [!DNL Marketo Measure] 을(를) 이벤트 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-using.md)
-      + [이메일 마케팅을 위해  [!DNL Marketo Measure] 해야 하는 이유](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
-      + [&#x200B; [!DNL Marketo Measure] 을(를) 이메일 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-using.md)
+      + {hide-from-toc}[이유 [!DNL Marketo Measure] 수요 세대/유료 미디어](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
+      + [ [!DNL Marketo Measure] 을(를) 수요 창출/유료 미디어 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-using.md)
+      + {hide-from-toc}[이유 [!DNL Marketo Measure] 콘텐츠 마케팅](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
+      + [ [!DNL Marketo Measure] 을(를) 콘텐츠 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-using.md)
+      + {hide-from-toc}[이유 [!DNL Marketo Measure] 이벤트 마케팅](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
+      + [ [!DNL Marketo Measure] 을(를) 이벤트 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-using.md)
+      + {hide-from-toc}[이유 [!DNL Marketo Measure] 이메일 마케팅](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
+      + [ [!DNL Marketo Measure] 을(를) 이메일 마케터로 사용](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [속성이란 무엇입니까?](/help/marketo-measure-main/onboarding/marketo-measure-101/what-is-attribution.md)
-      + [&#x200B; [!DNL Marketo Measure]이란?](/help/marketo-measure-main/onboarding/marketo-measure-101/what-is-marketo-measure.md)
+      + [ [!DNL Marketo Measure]이란?](/help/marketo-measure-main/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Marketo Measure 데이터](/help/marketo-measure-main/onboarding/marketo-measure-101/marketo-measure-data.md)
       + [접점](/help/marketo-measure-main/onboarding/marketo-measure-101/touchpoints.md)
       + [속성 모델](/help/marketo-measure-main/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
-      + [&#x200B; [!DNL Marketo Measure] ROI 대시보드](/help/marketo-measure-main/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [ [!DNL Marketo Measure] ROI 대시보드](/help/marketo-measure-main/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Stock Salesforce 보고서](/help/marketo-measure-main/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [추가 Salesforce 보고서](/help/marketo-measure-main/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/marketo-measure-main/onboarding/marketo-measure-102/data-warehouse.md)
@@ -66,7 +66,7 @@ ht-degree: 7%
       + [접점 억제](/help/marketo-measure-main/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [활동 속성](/help/marketo-measure-main/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] 검색 {#marketo-measure-discover}
-   + [&#x200B; [!DNL Marketo Measure] 검색 소개](/help/marketo-measure-main/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [ [!DNL Marketo Measure] 검색 소개](/help/marketo-measure-main/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
    + [개요 대시보드 살펴보기](/help/marketo-measure-main/marketo-measure-discover/2023-discover-overview-dashboard.md)
    + [속성 수익 검색](/help/marketo-measure-main/marketo-measure-discover/2023-discover-attributed-revenue.md)
    + [ROI 대시보드 살펴보기](/help/marketo-measure-main/marketo-measure-discover/2023-discover-roi-dashboard.md)
@@ -88,7 +88,7 @@ ht-degree: 7%
       + [W자형 모형](/help/marketo-measure-main/definitions/attribution/w-shaped-model.md)
       + [전체 경로 모델](/help/marketo-measure-main/definitions/attribution/full-path-model.md)
    + CRM 개체 {#crm-objects}
-      + [&#x200B; [!DNL Marketo Measure] 분류 개요](/help/marketo-measure-main/definitions/crm-objects/taxonomy-overview.md)
+      + [ [!DNL Marketo Measure] 분류 개요](/help/marketo-measure-main/definitions/crm-objects/taxonomy-overview.md)
       + [CRM 오브젝트](/help/marketo-measure-main/definitions/crm-objects/crm-objects.md)
       + [잠재 고객 개체](/help/marketo-measure-main/definitions/crm-objects/lead-object.md)
       + [연락처 개체](/help/marketo-measure-main/definitions/crm-objects/contact-object.md)
@@ -97,8 +97,8 @@ ht-degree: 7%
       + [BAT 개체](/help/marketo-measure-main/definitions/crm-objects/bat-object.md)
       + [Marketo Measure 사용자](/help/marketo-measure-main/definitions/crm-objects/marketo-measure-person.md)
    + UTM 매개 변수 {#utm-parameters}
-      + [&#x200B; [!DNL Marketo Measure] 태그 지정 작동 방식](/help/marketo-measure-main/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
-      + [&#x200B; [!DNL Marketo Measure]과(와) 통합 플랫폼 연결](/help/marketo-measure-main/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
+      + [ [!DNL Marketo Measure] 태그 지정 작동 방식](/help/marketo-measure-main/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [ [!DNL Marketo Measure]과(와) 통합 플랫폼 연결](/help/marketo-measure-main/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [UTM 매개 변수의 구조](/help/marketo-measure-main/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [UTM 모범 사례](/help/marketo-measure-main/definitions/utm-parameters/utm-best-practices.md)
       + [UTM 매개 변수 자동 태그 지정 도구](/help/marketo-measure-main/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
@@ -119,4 +119,4 @@ ht-degree: 7%
    + [마케팅 기여도 분석 완성도](/help/marketo-measure-main/evangelist-talks/marketing-attribution-maturity.md)
    + [마케팅 속성 및 데이터 사일로](/help/marketo-measure-main/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League Live 녹화{#experience-league-live-recordings}
-   + [Marketo Measure의 새로운 Discover 대시보드](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measure의 새로운 Discover 대시보드](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)

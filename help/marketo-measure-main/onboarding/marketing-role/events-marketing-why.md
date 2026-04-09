@@ -9,8 +9,7 @@ jira: KT-11674
 thumbnail: 347178.jpeg
 exl-id: 713014ed-257c-44f3-a406-bc40e953fe88
 feature: Fundamentals
-hidefromtoc: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 0%
@@ -21,4 +20,4 @@ ht-degree: 0%
 
 이 단원에서는 이벤트 마케팅 팀을 위한 [!DNL Marketo Measure]의 주요 기능과 가치를 요약합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422352/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/347178/?learn=on){transcript=true}
