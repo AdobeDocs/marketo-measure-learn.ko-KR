@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Marketo Measure] 계정 만들기'
-description: '[!DNL Marketo Measure](이전 Bizible) 계정을 만들고 광고 플랫폼(프로덕션 인스턴스)에 연결합니다.'
+description: '[!DNL Marketo Measure] (이전 Bizible) 계정을 만들고 광고 플랫폼(프로덕션 인스턴스)에 연결합니다.'
 role: User
 level: Beginner
 doc-type: Feature Video

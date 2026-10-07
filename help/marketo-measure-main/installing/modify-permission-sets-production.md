@@ -1,6 +1,6 @@
 ---
 title: 권한 집합 수정(프로덕션 인스턴스)
-description: '[!DNL Marketo Measure](프로덕션 인스턴스)에서 권한 집합을 수정하는 방법을 알아봅니다.'
+description: '[!DNL Marketo Measure] (프로덕션 인스턴스)에서 권한 집합을 수정하는 방법을 알아봅니다.'
 role: User
 level: Beginner
 doc-type: Feature Video
