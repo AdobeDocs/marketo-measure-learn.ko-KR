@@ -5,13 +5,17 @@ jira: KT-11241
 thumbnail: 347248.jpeg
 exl-id: 0e2a18f2-042c-4a93-80c8-840afb804ff7
 feature: Account-based Marketing
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+product_v2:
+  - id: e6fc4016-a972-4f36-8c30-a6a5f82ad0c8
+    internal-label: Marketo Measure
+feature_v2:
+  - id: 96ef477f-0ffb-5375-8fca-6d27be6b7c00
+    internal-label: Account-based Marketing
+source-git-commit: 39c9852c2f3da60da121510eccbb64441a6a016c
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
-
 ---
-
 # [!UICONTROL Accounts by Engagement Score]
 
 [!UICONTROL Account by Engagement Score]에 대한 높은 수준의 개요입니다.  이 자습서에서는 이 점수에 포함되는 지표 및 이와 연결된 보고서에 대해 설명합니다.

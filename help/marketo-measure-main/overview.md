@@ -1,16 +1,17 @@
 ---
-title: ' [!DNL Marketo Measure] 튜토리얼 개요'
+title: '[!DNL Marketo Measure] 튜토리얼 개요'
 recommendations: noDisplay, noCatalog
-description: '업계 최고의 B2B 마케팅 속성 앱인  [!DNL Adobe Marketo Measure] (이전 이름:  [!DNL Bizible])을(를) 최대한 활용하십시오.'
+description: '업계 최고의 B2B 마케팅 속성 앱인 [!DNL Adobe Marketo Measure] (이전 이름: [!DNL Bizible])을(를) 최대한 활용하십시오.'
 doc-type: overview-page
 exl-id: 83dae370-8ffd-4715-b72e-4e232f1bf31d
-source-git-commit: 681de8d7a8c7f2d6885d73d57fa6b4cda99a874d
+product_v2:
+  - id: e6fc4016-a972-4f36-8c30-a6a5f82ad0c8
+    internal-label: Marketo Measure
+source-git-commit: 39c9852c2f3da60da121510eccbb64441a6a016c
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '81'
 ht-degree: 6%
-
 ---
-
 # [!DNL Marketo Measure] 튜토리얼
 
 업계 최고의 B2B 마케팅 속성 앱인 [!DNL Adobe Marketo Measure]&#x200B;(이전 이름: [!DNL Bizible])을(를) 최대한 활용하십시오.
